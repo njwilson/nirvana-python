@@ -18,7 +18,7 @@ setup(
     long_description=long_description,
     author='Nick Wilson',
     author_email='nick@njwilson.net',
-    url='http://github.com/njwilson/nirvana-python',
+    url='http://nirvana-python.readthedocs.org',
     license='MIT',
     packages=['nirvana'],
     classifiers=[
