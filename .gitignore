@@ -5,4 +5,5 @@
 MANIFEST
 build/
 dist/
+docs/_build/
 nirvana.egg-info/
