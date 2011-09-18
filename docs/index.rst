@@ -80,6 +80,12 @@ User Guide
 See the :doc:`user guide<user/index>` for more details on using the
 Nirvana library in your own Python application.
 
+Developer Guide
+===============
+
+Want to help develop this library? Great! See the :doc:`developer
+guide<dev/index>`.
+
 Sitemap
 =======
 
@@ -87,6 +93,7 @@ Sitemap
 
    self
    user/index
+   dev/index
 
 Indices and tables
 ==================
